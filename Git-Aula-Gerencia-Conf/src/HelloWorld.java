@@ -5,6 +5,7 @@ public class HelloWorld {
 		System.out.println("Hello World!!!");
 		System.out.println("Mudando pelo Bash");
 		System.out.println("Mudando a mesma linha do hotfix na master");
+		System.out.println("Mudando outra linha");
 	}
 
 }

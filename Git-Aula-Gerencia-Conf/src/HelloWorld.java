@@ -9,6 +9,7 @@ public class HelloWorld {
 		System.out.println("Mudando a mesma linha do hotfix na master");
 		System.out.println("Mudando outra linha");
 		System.out.println("Fazendo o merge");
+		System.out.println("Teste para professor");
 	}
 
 }
